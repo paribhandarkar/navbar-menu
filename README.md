@@ -15,3 +15,5 @@ You can try out the application by visiting [this link](https://paribhandarkar.g
 ## Getting Started
 
 To get started with this project, clone the repository and open the `index.html` file in your preferred web browser.
+
+![image](https://github.com/paribhandarkar/navbar-menu/assets/76446574/bd955e38-8534-4501-8eb8-15db76eb96f3)
